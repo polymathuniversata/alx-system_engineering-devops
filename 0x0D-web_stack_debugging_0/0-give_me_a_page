@@ -1,0 +1,3 @@
+#!/usr/bin/env
+# Script to fix the failure to run the command
+service apache2 start -g 
